@@ -1,4 +1,5 @@
-# go-neural-digits
+#digit-recognition-go
+
 
 A neural network implementation in Go built from scratch to recognize handwritten digits (0-9). This project is designed as a learning exercise to understand the fundamentals of neural networks without using external ML libraries.
 
